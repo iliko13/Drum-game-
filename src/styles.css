@@ -17,31 +17,31 @@ body {
   }
   
   .w {
-  
+    background-image: url(./photos/tom1.png);
   }
   
   .a {
-  
+    background-image: url(./photos/tom2.png);
   }
   
   .s {
-  
+    background-image: url(./photos/tom3.png);
   }
   
   .d {
-  
+    background-image: url(./photos/tom4.png);
   }
   
   .j {
-  
+    background-image: url(./photos/snare.png);
   }
   
   .k {
-  
+    background-image: url(./photos/crash.png);
   }
   
   .l {
-  
+    background-image: url(./photos/kick.png);
   }
   
   .set {
